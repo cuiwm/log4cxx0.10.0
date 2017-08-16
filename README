@@ -1,0 +1,3 @@
+ yum install apr-devel  apr-util-devel
+
+ ./configure --with-charset=utf-8 --with-logchar=utf-8
